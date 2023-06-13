@@ -1,0 +1,5 @@
+import random
+
+print("Welcome to the Fursuit Theme Generator!")
+print("Here you will get a random species and theme for your new fursona or premade you're wanting to make."
+
